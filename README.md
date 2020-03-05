@@ -2,7 +2,7 @@
 
 ### Description
 
-We have been using various datasets in the course that are either model/toy datasets or collected in conditions fairly remote to local relevance. With the newfound API and webscrapping skills that you learned, this project challenges you to create a dataset revolving around a topic, problem, or theme of your choice, clean it, properly document it, and submit it to the Kaggle dataset repository. Curating and sharing a dataset is an integral part of your skills and practice as a data scientist that should not be overlooked!
+We have been using various datasets in the course that are either model/toy datasets or collected in conditions fairly remote to local relevance. With the newfound API and webscraping skills that you learned, this project challenges you to create a dataset revolving around a topic, problem, or theme of your choice, clean it, properly document it, and submit it to the Kaggle dataset repository. Curating and sharing a dataset is an integral part of your skills and practice as a data scientist that should not be overlooked!
 
 For project 3, your goal is three-fold:
 
@@ -25,7 +25,7 @@ More information and documentation on the Kaggle datasets platform see [this pag
 
 ### Requirements
 
-- Gather and prepare your data using API or webscrapping. A ready-made dataset is *NOT* allowed.
+- Gather and prepare your data using API or webscraping. A ready-made dataset is *NOT* allowed.
 - Make your data accessible and readable by using common open file formats like CSV.
 - Take the time to describe your dataset thoroughly.
 - Pick a clear, open license ensuring your dataset is reusable.
